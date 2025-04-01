@@ -184,17 +184,3 @@ src/
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## 👥 Authors
-
-- Your Name - *Initial work* - [YourGithub](https://github.com/yourusername)
-
-## 🙏 Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📞 Support
-
-For support, email support@blacktherapy.net or join our Slack channel.
